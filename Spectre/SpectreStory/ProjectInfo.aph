@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>CEFADE4D07F2D9C885A8530A228289F803B1509A113760D29E13A9884BB83840</Signature>
+  <Content>
+    <Project Guid="94f416b1-2290-4280-b5a1-87794f5c0f16">
+      <DisplayName Value="Spectre"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="0958cb8f-570c-4c2e-a1c5-ab74658f243e"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="634839600006104345"/>
+      <PartitionHash Value="B577B282F7DE254CEED1BC3C4897ED53A1ACB28B145EE88CFF8BD4FB1FD9B06F"/>
+      <SaveFileVersion Value="42"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
