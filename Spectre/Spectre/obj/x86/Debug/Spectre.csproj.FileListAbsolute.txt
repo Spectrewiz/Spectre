@@ -2,7 +2,5 @@ c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\ob
 c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\bin\x86\Debug\Spectre.exe
 c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\bin\x86\Debug\Spectre.pdb
-c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\bin\x86\Debug\Krypton.dll
-c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\bin\x86\Debug\Krypton.pdb
 c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\obj\x86\Debug\Spectre.exe
 c:\users\nelson\documents\visual studio 2010\Projects\Spectre\Spectre\Spectre\obj\x86\Debug\Spectre.pdb
