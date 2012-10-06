@@ -30,7 +30,7 @@ namespace Spectre.Game.Screens.Common
         #endregion
 
         #region Drawing
-        public virtual void Drawing() { }
+        public virtual void Draw() { }
         #endregion
     }
 }

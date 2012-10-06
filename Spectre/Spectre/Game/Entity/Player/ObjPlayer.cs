@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Spectre.Game.Entity
+namespace Spectre.Game.Entity.Player
 {
     /// <summary>
     /// The Obj defining the player.  

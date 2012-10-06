@@ -107,33 +107,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Game\Achievement.cs" />
-    <Compile Include="Game\AchievementMap.cs" />
+    <Compile Include="Game\BloomPostprocess\BloomComponent.cs" />
+    <Compile Include="Game\BloomPostprocess\BloomSettings.cs" />
+    <Compile Include="Game\Quest\Achievement.cs" />
+    <Compile Include="Game\Quest\AchievementMap.cs" />
     <Compile Include="Game\Common\GameState\GameStateListener.cs" />
-    <Compile Include="Game\Entity\Entity.cs" />
-    <Compile Include="Game\Entity\EntityEnemy.cs" />
-    <Compile Include="Game\Entity\EntityList.cs" />
-    <Compile Include="Game\Entity\EntityPlayer.cs" />
     <Compile Include="Game\Common\GameState\GameState.cs" />
-    <Compile Include="Game\HUD.cs" />
-    <Compile Include="Game\Inventory.cs" />
-    <Compile Include="Game\Item.cs" />
-    <Compile Include="Game\ItemList.cs" />
-    <Compile Include="Game\ItemStack.cs" />
+    <Compile Include="Game\HUD\HUD.cs" />
+    <Compile Include="Game\Item\Container\Inventory.cs" />
+    <Compile Include="Game\Item\Item.cs" />
+    <Compile Include="Game\Item\ItemList.cs" />
+    <Compile Include="Game\Item\ItemStack.cs" />
     <Compile Include="Game\Menu.cs" />
-    <Compile Include="Game\MetaData.cs" />
+    <Compile Include="Game\Data\MetaData.cs" />
     <Compile Include="Game\Entity\Obj.cs" />
-    <Compile Include="Game\Entity\ObjEnemy.cs" />
+    <Compile Include="Game\Entity\Enemy\ObjEnemy.cs" />
     <Compile Include="Game\Entity\ObjList.cs" />
-    <Compile Include="Game\Entity\ObjPlayer.cs" />
+    <Compile Include="Game\Entity\Player\ObjPlayer.cs" />
+    <Compile Include="Game\Quest\Quest.cs" />
     <Compile Include="Game\Screens\MenuScreens\Menu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Game\Program.cs" />
     <Compile Include="Game\Main.cs" />
     <Compile Include="Game\Screens\Common\Screen.cs" />
     <Compile Include="Game\Screens\Common\ListScreens.cs" />
-    <Compile Include="Game\Skill.cs" />
-    <Compile Include="Game\SkillMap.cs" />
+    <Compile Include="Game\Entity\Player\Skill.cs" />
+    <Compile Include="Game\Entity\Player\SkillMap.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game\Game.ico" />

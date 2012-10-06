@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Spectre.Game
+namespace Spectre.Game.Item
 {
     public class ItemList
     {

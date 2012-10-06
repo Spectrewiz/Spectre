@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Spectre.Game.Entity
+namespace Spectre.Game.HUD
 {
-    public class EntityPlayer : Entity
+    public class HUD
     {
     }
 }

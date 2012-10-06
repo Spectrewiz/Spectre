@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Spectre.Game
+namespace Spectre.Game.Data
 {
-    interface MetaData
+    public class MetaData
     {
     }
 }

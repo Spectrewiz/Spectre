@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Spectre.Game
+namespace Spectre.Game.Item.Container
 {
-    public class Inventory
+    public abstract class Inventory
     {
         private int length,
             width;
